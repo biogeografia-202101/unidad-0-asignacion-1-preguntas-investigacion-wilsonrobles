@@ -2,7 +2,8 @@
 
 Mi familia de plantas asignada es: ...
 
-Elegí la siguiente combinación de temas/preguntas: ...
+Elegí la siguiente combinación de temas/preguntas: ABCE
+
 
 
 ## Instrucciones
