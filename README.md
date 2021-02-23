@@ -1,6 +1,6 @@
 # Mis preguntas de investigación
 
-Mi familia de plantas asignada es: ...
+Mi familia de plantas asignada es: Sapindaceae
 
 Elegí la siguiente combinación de temas/preguntas: ABCE
 
